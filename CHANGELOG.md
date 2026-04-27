@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.3.0](https://github.com/JuliaGNSS/Tracking.jl/compare/v1.2.1...v1.3.0) (2026-04-27)
+
+
+### Features
+
+* collect filtered prompt per correlation in SatState ([8a086b7](https://github.com/JuliaGNSS/Tracking.jl/commit/8a086b77c2f96eaf4727eb93a6047a2bb816d528))
+
 ## [1.2.1](https://github.com/JuliaGNSS/Tracking.jl/compare/v1.2.0...v1.2.1) (2026-03-25)
 
 
