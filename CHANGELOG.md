@@ -1,5 +1,12 @@
 # Changelog
 
+# [1.4.0](https://github.com/JuliaGNSS/Tracking.jl/compare/v1.3.0...v1.4.0) (2026-04-27)
+
+
+### Features
+
+* **pll_and_dll:** support per-satellite loop filter bandwidths ([5e4a9d3](https://github.com/JuliaGNSS/Tracking.jl/commit/5e4a9d32d1723be5783450832b5dc610a54f9508))
+
 # [1.3.0](https://github.com/JuliaGNSS/Tracking.jl/compare/v1.2.1...v1.3.0) (2026-04-27)
 
 
